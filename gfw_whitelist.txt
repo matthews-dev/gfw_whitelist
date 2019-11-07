@@ -712,3 +712,13 @@
 ||znyj365.com
 ||zol.com.cn
 ||zuk.cn
+
+||translate.google.cn
+||3ddcim.com
+||bitbucket.org
+||cloudfront.net
+||proclivitysystems.com
+||gtimg.com
+||pivotaltracker.com
+||v2ex.com
+||dfcfw.com
