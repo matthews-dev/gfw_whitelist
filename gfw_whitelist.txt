@@ -716,7 +716,6 @@
 ||translate.google.cn
 ||3ddcim.com
 ||bitbucket.org
-||cloudfront.net
 ||proclivitysystems.com
 ||gtimg.com
 ||pivotaltracker.com
