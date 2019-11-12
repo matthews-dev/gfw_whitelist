@@ -722,3 +722,4 @@
 ||v2ex.com
 ||dfcfw.com
 ||3.cn
+||bitbucket.org
