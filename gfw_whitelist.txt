@@ -724,3 +724,4 @@
 ||3.cn
 ||bitbucket.org
 ||cloudfront.net
+||v2ex.com
