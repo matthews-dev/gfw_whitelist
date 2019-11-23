@@ -725,3 +725,5 @@
 ||bitbucket.org
 ||cloudfront.net
 ||v2ex.com
+||local
+||dev
