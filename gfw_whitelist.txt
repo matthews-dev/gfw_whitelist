@@ -726,4 +726,4 @@
 ||cloudfront.net
 ||v2ex.com
 ||local
-||dev
+||d
