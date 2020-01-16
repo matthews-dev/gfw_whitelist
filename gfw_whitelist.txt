@@ -726,4 +726,6 @@
 ||cloudfront.net
 ||v2ex.com
 ||local
-||d
+||ims3d_v2
+||ims3d
+||ji-cn.com
